@@ -1,0 +1,27 @@
+claude-opus-5-5-medium workflow 1 exit=3
+claude-opus-5-5-medium workflow 3 exit=3
+claude-opus-5-5-medium bare 3 exit=3
+claude-opus-5-5-medium bare 2 exit=3
+claude-opus-5-5-medium bare 1 exit=3
+claude-opus-5-5-medium workflow 2 exit=3
+gemini-4-neon-medium bare 2 exit=0
+gemini-4-neon-medium bare 1 exit=0
+gemini-4-neon-medium bare 3 exit=0
+opus-cc bare 1 exit=0
+opus-cc bare 2 exit=0
+opus-cc bare 3 exit=0
+gemini-4-neon-medium workflow 2 exit=0
+gemini-4-neon-medium workflow 1 exit=0
+opus-cc workflow 1 exit=0
+gemini-4-neon-medium workflow 3 exit=0
+ALLDONE
+opus-cc workflow 2 exit=0
+opus-cc workflow 3 exit=0
+OPUSDONE
+opus nuanced 3 0
+opus nuanced 1 0
+opus nuanced 2 0
+gem nuanced 2 0
+gem nuanced 1 0
+gem nuanced 3 0
+NUANCEDDONE

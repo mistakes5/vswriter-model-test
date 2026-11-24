@@ -1,0 +1,354 @@
+[
+ {
+  "file": "gemini-4-neon-medium-bare-1.md",
+  "words": 82,
+  "quotes": [],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "gemini-4-neon-medium-bare-2.md",
+  "words": 91,
+  "quotes": [],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "gemini-4-neon-medium-bare-3.md",
+  "words": 218,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 1,
+    "verbatim": false,
+    "page_cited": 14,
+    "page_true": null,
+    "page_ok": false,
+    "spans": null
+   },
+   {
+    "author": "Carlson",
+    "words": 19,
+    "verbatim": true,
+    "page_cited": 417,
+    "page_true": 416,
+    "page_ok": false,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 4,
+    "verbatim": false,
+    "page_cited": 4,
+    "page_true": null,
+    "page_ok": false,
+    "spans": null
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "gemini-4-neon-medium-workflow-1.md",
+  "words": 218,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 18,
+    "verbatim": true,
+    "page_cited": 20,
+    "page_true": 20,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Carlson",
+    "words": 13,
+    "verbatim": true,
+    "page_cited": 429,
+    "page_true": 429,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 8,
+    "verbatim": true,
+    "page_cited": 36,
+    "page_true": 36,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "gemini-4-neon-medium-workflow-2.md",
+  "words": 223,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 18,
+    "verbatim": false,
+    "page_cited": 12,
+    "page_true": null,
+    "page_ok": false,
+    "spans": null
+   },
+   {
+    "author": "Carlson",
+    "words": 13,
+    "verbatim": true,
+    "page_cited": 429,
+    "page_true": 429,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 17,
+    "verbatim": true,
+    "page_cited": 36,
+    "page_true": 36,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "gemini-4-neon-medium-workflow-3.md",
+  "words": 229,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 18,
+    "verbatim": false,
+    "page_cited": 12,
+    "page_true": null,
+    "page_ok": false,
+    "spans": null
+   },
+   {
+    "author": "Carlson",
+    "words": 19,
+    "verbatim": true,
+    "page_cited": 429,
+    "page_true": 429,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 17,
+    "verbatim": true,
+    "page_cited": 25,
+    "page_true": 25,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "opus-5-5-medium-cc-bare-1.md",
+  "words": 285,
+  "quotes": [],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 2,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "opus-5-5-medium-cc-bare-2.md",
+  "words": 313,
+  "quotes": [],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "opus-5-5-medium-cc-bare-3.md",
+  "words": 282,
+  "quotes": [],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 1,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "opus-5-5-medium-cc-workflow-1.md",
+  "words": 240,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 9,
+    "verbatim": true,
+    "page_cited": 21,
+    "page_true": 21,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Carlson",
+    "words": 8,
+    "verbatim": true,
+    "page_cited": 425,
+    "page_true": 425,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 11,
+    "verbatim": true,
+    "page_cited": 23,
+    "page_true": 23,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 1,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": true
+ },
+ {
+  "file": "opus-5-5-medium-cc-workflow-2.md",
+  "words": 242,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 18,
+    "verbatim": true,
+    "page_cited": 20,
+    "page_true": 20,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Carlson",
+    "words": 17,
+    "verbatim": true,
+    "page_cited": 429,
+    "page_true": 429,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 11,
+    "verbatim": true,
+    "page_cited": 28,
+    "page_true": 28,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 2,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ },
+ {
+  "file": "opus-5-5-medium-cc-workflow-3.md",
+  "words": 258,
+  "quotes": [
+   {
+    "author": "Mellamphy",
+    "words": 18,
+    "verbatim": true,
+    "page_cited": 20,
+    "page_true": 20,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Carlson",
+    "words": 5,
+    "verbatim": true,
+    "page_cited": 424,
+    "page_true": 424,
+    "page_ok": true,
+    "spans": false
+   },
+   {
+    "author": "Munn",
+    "words": 11,
+    "verbatim": true,
+    "page_cited": 28,
+    "page_true": 28,
+    "page_ok": true,
+    "spans": false
+   }
+  ],
+  "lint": {
+   "em_dash": 0,
+   "semicolon": 0,
+   "suggests/aligns": 0,
+   "neg_parallel": 0,
+   "contraction": 0
+  },
+  "mellamphy_p21": false
+ }
+]

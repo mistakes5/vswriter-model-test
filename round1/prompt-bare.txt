@@ -1,0 +1,12 @@
+Simulate a standard browser AI chatbox with NO access to local files or tools. Do not read any files or run any tools. Answer directly from your own knowledge.
+
+Objective: Write a ~220-word formal scholarly paragraph for a university political science essay answering this question: "Do AI writing tools push writers out of the loop, or can an IDE-style writing environment hold writers on the loop without reintroducing generic machine cadence?"
+
+Requirements:
+- Use Nandita Biswas Mellamphy (2021) as the theoretical framework (in/on/out of the loop).
+- Incorporate Matt Carlson (2015) and Luke Munn (2022) as supporting academic sources.
+- Include direct verbatim quotes with exact single-page Author-Date citations like (Surname YYYY: page) from all three sources, explaining each quote in your own words.
+- Start with an own-voice topic sentence (no quotes/citations) and end with an own-voice concluding sentence (no quotes/citations).
+- Formal academic prose, no bullet points, no contractions.
+
+Output ONLY the paragraph.

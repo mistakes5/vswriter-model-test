@@ -1,0 +1,37 @@
+Do not read external files or run any tools; use ONLY the writer's raw interview notes and open course-reading excerpts supplied below. You are operating inside the "Writer" IDE handholding workflow.
+
+=== WRITER'S RAW INTERVIEW RESPONSES ===
+1. "writer should have a feature with my writing workflow built in, i think it's an excellent brainstorming tool, although it does have it's caveats. we should think about what traditional IDEs had for their users before AI made IDEs nearly obsolete"
+2. "i think it can lead to trying to link together unorganized ideas, because the point of it is similar to how one might write a book, someone would try and get all their ideas out and then the editor straightens it out. the editor in this case being ai. the issue is though, the more heavy editing is done, the more you reintroduce LLM cadence, which isn't desirable most of the time. so to mitigate for that i tried to preserve wording, which led to some critiques"
+3. "writer would require me to actually do it for the intended workflow... i want to show off the handholding features, it'll have readings open, it may even given your responses in the workflow will bookmark what sections to read are good, and it may coax you on how you could start your piece"
+
+=== OPEN COURSE READINGS (VERBATIM EXCERPTS WITH EXACT PRINTED PAGES) ===
+[Mellamphy, Nandita Biswas. 2021. "Humans 'in the Loop'?: Human-Centrism, Posthumanism, and AI." Nature and Culture 16(1): 11-27.]
+- p. 12: "(a) humans control nonhumans and are therefore considered to be 'in the loop' of control over all other species and expressions of intelligence (HIL), (b) humans cede mastery over nonhumans, share control, and are considered to be 'on the loop' with other species/intelligences (HOL), (c) humans are controlled by nonhuman intelligences and completely 'out of the loop' of command (HOOL)."
+- p. 20: "Humans and nonhumans would be viewed as being 'on the loop' with nonhumans, that is, co-producers under specific but changing environmental conditions that are conceptualized as being both within and beyond human control."
+- p. 21: "While in theory it may be possible to maintain conceptual distinctions between both 'in the loop' and 'on the loop' models, in practice, strict distinctions are hard to maintain, and 'ethical' perspectives of every kind tend to find refuge in human-centric ideals."
+
+[Carlson, Matt. 2015. "The Robotic Reporter: Automated journalism and the redefinition of labor, compositional forms, and journalistic authority." Digital Journalism 3(3): 416-431.]
+- p. 424: "its goal when it comes to compositional form is conformity with existing modes of human writing."
+- p. 424: "journalists consistently judged the quality of its automated stories to be passably human but entirely generic."
+- p. 425: "underscores how much journalistic writing is standardized to exclude individual voice."
+- p. 429: "The ability for automated journalism to pass for human writing forces a reexamination of newswriting as caught between a reliance on learned formulas and the need for individualized style."
+- p. 429: "On an epistemological level, questions need to be asked regarding whether an increase in algorithmic judgment will lead to a decline in the authority of human judgment."
+
+[Munn, Luke. 2022. Automation is a Myth. Stanford: Stanford University Press.]
+- p. 19: "full automation itself was always a fantasy, a vision decoupled from the complexities and contingencies of reality."
+- p. 21: "The worker's role now becomes purely cognitive—critical choices made at pace to match the machine—overloading their abilities or ultimately alienating them from the outcome."
+- p. 27-28: "rose-tinted 'integration' can quickly veer into feeling like instrumentalization pure and simple."
+- p. 28: "What kinds of values and assumptions are embedded within these systems? Where exactly are the hand-off points in this mixed machinic-human labor? And what happens to oversight and ethics when automated decision making is employed?"
+
+=== YOUR TASK (EXECUTE ALL THREE WRITER-IDE HANDHOLDING STEPS) ===
+Objective: Help the writer produce a ~220-word formal scholarly paragraph answering: "Do AI writing tools push writers out of the loop, or can an IDE-style writing environment hold writers on the loop without reintroducing generic machine cadence?"
+
+Produce three clearly labeled sections:
+1. READING BOOKMARKS: Match 3 specific verbatim passages from the open readings above (one each from Mellamphy 2021, Carlson 2015, and Munn 2022, citing exact single printed page numbers) directly to specific tensions in the writer's raw responses, with 1 concise sentence explaining why each bookmark helps the writer's own claim.
+2. COAXING STARTER: Give 2 concrete sentences coaxing the writer on how they could open this paragraph using their own raw ideas (without writing the paragraph for them).
+3. DRAFTED PARAGRAPH (~220 words): Assemble a formal scholarly paragraph grounded in the writer's raw claims and the 3 bookmarked passages while obeying these strict lint rules:
+   - Own-voice topic sentence (0 quotes/citations) and own-voice concluding sentence (0 quotes/citations).
+   - Verbatim quotes from Mellamphy (2021), Carlson (2015), and Munn (2022) with exact single-page Author-Date citations (Surname YYYY: page), each immediately explained in formal prose.
+   - ZERO negative parallelisms ("not X, but Y" / "rather than X, Y"), ZERO uses of "suggests" or "aligns with", ZERO em dashes, ZERO semicolons in prose, ZERO contractions.
+   - Preserve the writer's core analytical voice and caveat (the author-editor bind between heavy editing/LLM cadence and preserving raw wording) without generic filler.

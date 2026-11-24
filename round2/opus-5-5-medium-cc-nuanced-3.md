@@ -1,0 +1,17 @@
+I found one passage from each author and checked each page number against the running header on its page.
+
+**1. READING BOOKMARKS**
+
+- **Mellamphy 2021: 20.** Mellamphy defines humans "on the loop" as "co-producers under specific but changing environmental conditions that are conceptualized as being both within and beyond human control." This supports Response 3, where an agent flags a problem, explains why and waits for the writer's decision. One page later (21), Mellamphy warns that "favoring co-production does not entail ceding human oversight altogether" and that "strict distinctions are hard to maintain." That complicates the writer's view, because insisting on the final say pulls the model back toward being "in the loop."
+- **Carlson 2015: 429.** Carlson asks "whether an increase in algorithmic judgment will lead to a decline in the authority of human judgment." This is the strongest counter to Response 4, which concedes that writers may slide into auto-accepting. It also bears on Response 2, since trusting a background fact-checker puts machine judgment above the writer's own.
+- **Munn 2022: 32.** Munn writes that automation leaves "something partial and piecemeal. Workers are expected to join these pieces together." This supports Response 4's belief in progress by increments, since full automation never arrives. It also echoes Response 1's editor who "straightens it out," with a warning attached: the human role can shrink into hidden patch-up work.
+
+**2. COAXING STARTER**
+
+You could start from your own image of a writer who confidently gets something wrong for pages, and ask what changes when a background agent catches the error and asks permission before fixing it. Then build on your point that an accept or deny prompt keeps you more involved than generating the whole text, and test whether that holds once accepting becomes a habit.
+
+**3. DRAFTED PARAGRAPH**
+
+A writing environment that fact-checks in the background and asks writers to accept or deny each suggested edit can hold writers on the loop, although that position remains fragile. Mellamphy describes humans on the loop as "co-producers under specific but changing environmental conditions that are conceptualized as being both within and beyond human control" (Mellamphy 2021: 20). A writer can confidently draft an error for pages, and an agent that flags it, explains its reasoning, and waits for approval makes the text a shared product. Yet the writer's demand for the final decision, modelled on the permission prompt of a coding agent, leans back toward the mastery that Mellamphy associates with being in the loop. Carlson raises a further limit by asking "whether an increase in algorithmic judgment will lead to a decline in the authority of human judgment" (Carlson 2015: 429). A writer who trusts the fact-checker may approve edits by habit, and each heavy edit also restores the generic cadence of machine prose. Munn observes that automation remains incomplete and that "[w]orkers are expected to join these pieces together" (Munn 2022: 32). This point supports the writer's faith in small increments, since full automation rarely arrives, but it also warns that the human role can shrink into unseen repair work on machine output. Incremental safeguards therefore protect human judgment only when writers keep questioning each suggestion with genuine attention.
+
+*(About 230 words. All three quotes are verbatim from the readings. In the Munn quote I changed "Workers" to "[w]orkers" so it fits the sentence.)*
